@@ -2,7 +2,9 @@
 ### Kapsamlı Teknik Rehber
 
 > *"The application should be equally driven by users, programs, automated tests or batch scripts, and be developed and tested in isolation from its eventual run-time devices and databases."*
+>
 > *"Uygulama, kullanıcılar, programlar, otomatik testler veya toplu iş komut dosyaları tarafından eşit derecede yönlendirilmeli ve nihai çalışma zamanı aygıtlarından ve veritabanlarından bağımsız olarak geliştirilip test edilmelidir."*
+> 
 > — Alistair Cockburn, 2005
 
 ---
